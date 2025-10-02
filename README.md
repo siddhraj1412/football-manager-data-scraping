@@ -1,4 +1,4 @@
-# football-manager-data-scraping
+# football-manager-data-scraping!
 
 This repository contains tools and scripts for scraping data from Football Manager databases and web resources. It is designed for football analytics enthusiasts and researchers interested in extracting detailed player, team, or match data for further analysis or integration with other football data projects.
 
